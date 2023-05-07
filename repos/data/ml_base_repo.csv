@@ -1,0 +1,41 @@
+id,full_name,url,stars,forks,collaborators,commit,closedIssue,Domain,Comment
+117772329,MVIG-SJTU/AlphaPose,https://api.github.com/repos/MVIG-SJTU/AlphaPose,5883,1650,13,139,790,,
+125932201,OlafenwaMoses/ImageAI,https://api.github.com/repos/OlafenwaMoses/ImageAI,6815,1905,12,292,426,Computer Vision,A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities
+188660663,CorentinJ/Real-Time-Voice-Cloning,https://api.github.com/repos/CorentinJ/Real-Time-Voice-Cloning,33590,6157,2,293,815,text to speech,Clone a voice in 5 seconds to generate arbitrary speech in real-time
+247295191,open-mmlab/OpenPCDet,https://api.github.com/repos/open-mmlab/OpenPCDet,2361,753,23,309,484,,
+80655163,ellisdg/3DUnetCNN,https://api.github.com/repos/ellisdg/3DUnetCNN,1455,613,3,372,252,,
+53220938,TadasBaltrusaitis/OpenFace,https://api.github.com/repos/TadasBaltrusaitis/OpenFace,5456,1672,17,733,669,,
+277982133,open-mmlab/mmdetection3d,https://api.github.com/repos/open-mmlab/mmdetection3d,2056,566,43,966,589,,
+126897385,DeepLabCut/DeepLabCut,https://api.github.com/repos/DeepLabCut/DeepLabCut,2734,1243,68,1075,1280,,
+221654678,deepset-ai/haystack,https://api.github.com/repos/deepset-ai/haystack,4207,682,99,1109,1020,,
+206660580,facebookresearch/detectron2,https://api.github.com/repos/facebookresearch/detectron2,19936,5430,168,1337,2718,visual recognition,"a platform for object detection, segmentation and other visual recognition tasks"
+58157629,magenta/magenta,https://api.github.com/repos/magenta/magenta,17402,3579,139,1397,570,Music and art,Music and Art Generation with Machine Intelligence
+114747226,deepfakes/faceswap,https://api.github.com/repos/deepfakes/faceswap,40256,11485,75,1411,709,deepfake,
+278810244,open-mmlab/mmaction2,https://api.github.com/repos/open-mmlab/mmaction2,1716,543,40,1591,629,,
+93728104,NTMC-Community/MatchZoo,https://api.github.com/repos/NTMC-Community/MatchZoo,3591,914,28,1810,429,,
+102057483,deepinsight/insightface,https://api.github.com/repos/deepinsight/insightface,11228,3646,38,1980,829,Face Analysis,State-of-the-art 2D and 3D Face Analysis Projec
+76095264,autorope/donkeycar,https://api.github.com/repos/autorope/donkeycar,2210,1139,107,2125,266,,
+104001805,HealthRex/CDSS,https://api.github.com/repos/HealthRex/CDSS,64,27,25,2152,256,,
+118620583,mozilla/TTS,https://api.github.com/repos/mozilla/TTS,5647,907,43,2184,510,,
+111113343,deepmipt/DeepPavlov,https://api.github.com/repos/deepmipt/DeepPavlov,5581,1003,63,2611,503,,
+52581991,snorkel-team/snorkel,https://api.github.com/repos/snorkel-team/snorkel,5029,810,64,2669,944,,
+277549433,akshitagupta15june/Face-X,https://api.github.com/repos/akshitagupta15june/Face-X,141,217,109,2729,386,,
+174168383,murthylab/sleap,https://api.github.com/repos/murthylab/sleap,133,28,12,2881,321,,
+81887991,microsoft/AirSim,https://api.github.com/repos/microsoft/AirSim,12670,3587,186,3350,2573,Autonomous vehicles,Simulator for autonomous vehicles
+102567256,YosefLab/scvi-tools,https://api.github.com/repos/YosefLab/scvi-tools,649,215,43,3388,555,,
+37615400,kristinbranson/APT,https://api.github.com/repos/kristinbranson/APT,57,10,10,3443,233,,
+60273704,mozilla/DeepSpeech,https://api.github.com/repos/mozilla/DeepSpeech,19004,3410,135,3466,1946,speech-to-text,"an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers"
+40307735,flatironinstitute/CaImAn,https://api.github.com/repos/flatironinstitute/CaImAn,442,294,47,3858,493,,
+27452807,broadinstitute/gatk,https://api.github.com/repos/broadinstitute/gatk,1166,471,97,4413,3191,Biometric,The Genome Analysis Toolkit (GATK) is a set of bioinformatic tools for analyzing high-throughput sequencing (HTS) and variant call format (VCF) data
+124910572,mozilla/bugbug,https://api.github.com/repos/mozilla/bugbug,379,233,78,4461,586,,
+259710503,speechbrain/speechbrain,https://api.github.com/repos/speechbrain/speechbrain,3745,695,81,5969,479,,
+102302633,schrum2/MM-NEAT,https://api.github.com/repos/schrum2/MM-NEAT,39,17,17,6439,587,,
+178626720,PyTorchLightning/pytorch-lightning,https://api.github.com/repos/PyTorchLightning/pytorch-lightning,17417,2176,445,6582,4197,Deep learnign framework,"Deep learning framework to train, deploy, and ship AI products Lightning fast"
+5844399,dpinney/omf,https://api.github.com/repos/dpinney/omf,90,58,37,7182,357,,
+149430917,microsoft/recommenders,https://api.github.com/repos/microsoft/recommenders,12149,2105,78,7343,531,Recommendation Systems,Best Practices on Recommendation Systems
+43098215,deepchem/deepchem,https://api.github.com/repos/deepchem/deepchem,3409,1264,123,7400,994,,
+85989537,idaholab/raven,https://api.github.com/repos/idaholab/raven,149,85,40,10681,626,,
+203558879,fetchai/agents-aea,https://api.github.com/repos/fetchai/agents-aea,110,34,22,11034,775,,
+96246170,ApolloAuto/apollo,https://api.github.com/repos/ApolloAuto/apollo,20104,8110,267,18066,2458,Autonomous vehicles,An open autonomous driving platform
+70908208,RasaHQ/rasa,https://api.github.com/repos/RasaHQ/rasa,13538,3886,319,29857,5567,Automating conversation,"Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+10969551,cms-sw/cmssw,https://api.github.com/repos/cms-sw/cmssw,849,3662,147,229660,2799,,
