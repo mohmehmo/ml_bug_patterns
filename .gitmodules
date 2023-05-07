@@ -1,0 +1,3 @@
+[submodule "tool/phph"]
+	path = tool/phph
+	url = https://github.com/salab/phph
